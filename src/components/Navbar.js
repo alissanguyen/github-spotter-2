@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="navbar">
-        <h1 className="navbar__site-name">devfinder</h1>
+        <h1 className="navbar__site-name">github spotter 2.0</h1>
         <button onClick={toggleTheme} className="navbar__toggle">
           {theme === "light-theme" ? "Dark" : "Light"}
           {theme === "light-theme" ? <MoonIcon /> : <SunIcon />}
