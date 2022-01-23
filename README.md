@@ -9,6 +9,8 @@ This is the new version of my old project Github Spotter.
 - Better design.
 
 ## What To Expect
+![GithubSpotter](https://user-images.githubusercontent.com/69443738/150660571-e343e4a4-13ce-4c94-871f-6ae38955dcaf.png)
+
 
 ### Usage
 
