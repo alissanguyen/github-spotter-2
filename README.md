@@ -1,5 +1,7 @@
 # Github Spotter 2.0
 
+URL https://githubspotter2.alissanguyen.dev
+
 This is the new version of my old project Github Spotter.
 
 ## What's New?
